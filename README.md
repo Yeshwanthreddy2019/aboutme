@@ -13,7 +13,7 @@
 #### Home Automation Using Andriod :
 Home automation is a process of controling Home appliances using mobile application via Bluetooth. Automation includes operating electrinic devices like lights,Fans,Tv,Air conditioner etc. It is controlled with Andriod application and it can be operated easily.this system intended to
 
-To create a repsoitory we have follow the follwing rules :
+## To create a repsoitory we have follow the follwing rules :
 - Login tnto your Github account
 - click on the "+" icon to create a new repository
 - Give a name to your repository and choose public and select README.md. Then click on commit changes.
@@ -25,7 +25,7 @@ To create a repsoitory we have follow the follwing rules :
 - Andriod apk
 - Bluetooth Device
 - Ardunio 
-  Using foolowing tools repository can be created
+## Using following tools repository can be created
 - Github cloud
 - Visual studio code
 
