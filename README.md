@@ -3,8 +3,8 @@
 
 
 ## Links of my repository :
-- [Github link_page]( https://yeshwanthreddy2019.github.io/aboutme/.)
-- [Source link](https://github.com/Yeshwanthreddy2019/aboutme)
+- [Github link_page]( https://yeshwanthreddy2019.github.io/aboutme/ "page".)
+- [Source link](https://github.com/Yeshwanthreddy2019/aboutme "source")
  
  
  
@@ -24,4 +24,4 @@ Home automation is a process of controling Home appliances using mobile applicat
  Instructables.com :https://www.instructables.com/id/DIY-Smart-Home-Automation/
 ## Contributors
 YESHWANTHREDDY ANUMULA, Applied computer science. 
-![image](https://www.elprocus.com/wp-content/uploads/2014/05/116.jpg " Home Automation")
+![hosted image](https://www.elprocus.com/wp-content/uploads/2014/05/116.jpg"Home Automation")
