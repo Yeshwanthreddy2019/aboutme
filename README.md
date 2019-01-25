@@ -19,9 +19,13 @@ Home automation is a process of controling Home appliances using mobile applicat
 - Ardunio 
 
 ## Recommended resources
- Nevon projects: https://nevonprojects.com/home-automation-using-android/
- Researchgate.net: https://www.researchgate.net/publication/321767930_ARDUINO_BASED_HOME_AUTOMATION_USING_ANDROID_APPLICATION
- Instructables.com :https://www.instructables.com/id/DIY-Smart-Home-Automation/
+- Nevon projects: [https://nevonprojects.com/home-automation-using-android/](https://nevonprojects.com/home-automation-using-android/)
+
+- Researchgate.net: [https://www.researchgate.net/publication/321767930_ARDUINO_BASED_HOME_AUTOMATION_USING_ANDROID_APPLICATION](https://www.researchgate.net/publication/321767930_ARDUINO_BASED_HOME_AUTOMATION_USING_ANDROID_APPLICATION)
+
+- Instructables.com :[https://www.instructables.com/id/DIY-Smart-Home-Automation/](https://www.instructables.com/id/DIY-Smart-Home-Automation/])
+
+
 ## Contributors
 YESHWANTHREDDY ANUMULA, Applied computer science. 
 ![hosted image](https://www.elprocus.com/wp-content/uploads/2014/05/116.jpg "Home Automation")
