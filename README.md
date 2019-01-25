@@ -8,7 +8,7 @@
  
  
  
- ##  ABOUT
+ ## ABOUT
  
 #### Home Automation Using Andriod :
 Home automation is a process of controling Home appliances using mobile application via Bluetooth. Automation includes operating electrinic devices like lights,Fans,Tv,Air conditioner etc. It is controlled with Andriod application and it can be operated easily.this system intended to
