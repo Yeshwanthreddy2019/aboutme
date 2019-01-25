@@ -25,7 +25,7 @@ To create a repsoitory we have follow the follwing rules :
 - Andriod apk
 - Bluetooth Device
 - Ardunio 
-Using foolowing tools repository can be created
+  Using foolowing tools repository can be created
 - Github cloud
 - Visual studio code
 
