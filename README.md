@@ -3,7 +3,7 @@
 
 
 ## Links of my repository :
-- [Github link_page]( https://yeshwanthreddy2019.github.io/aboutme/ "page".)
+- [Github link_page](https://yeshwanthreddy2019.github.io/aboutme/ "page".)
 - [Source link](https://github.com/Yeshwanthreddy2019/aboutme "source")
  
  
